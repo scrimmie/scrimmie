@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 ##### I am a computer engineer, always learning, and tinkering with new projects. Welcome to my GitHub where I post some of the fun projects I am working on. Please contact me with any questions you may have.
 
 ### Contact Info:
-[Linked In](www.linkedin.com/in/david-dapice "Linked In")  
-[daviddapice.com](https://www.daviddapice.com/ "Personal Website")  
-Email: drdapice@comcast.net
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/david-dapice)  
+[![daviddapice.com](https://img.shields.io/badge/Website-daviddapice.com-blue)](https://www.daviddapice.com/)  
+[![drdapice@comcast.net](https://img.shields.io/badge/Email-drdapice%40comcast.net-blue)](mailto:drdapice@comcast.net)
