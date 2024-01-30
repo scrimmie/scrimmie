@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 ### Contact Info:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/david-dapice)  
 [![daviddapice.com](https://img.shields.io/badge/Website-daviddapice.com-blue)](https://www.daviddapice.com/)  
-[![david@dapice.dev](https://img.shields.io/badge/Email-drdapice%40comcast.net-blue)](mailto:david@dapice.dev)
+[![david@dapice.dev](https://img.shields.io/badge/Email-david%40dapice.dev-blue)](mailto:david@dapice.dev)
