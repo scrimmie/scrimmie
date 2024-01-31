@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # David Dapice :computer: <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-#### *I am a driven, passionate technologist combining logic, interpersonal skills, and a team-player orientation. I have 2+ years of experience working in both startups and established technology companies, developing in agile work environments using industry standard technologies and workflows. I am inspired by technology, and actively follow trends in web technology, incorporating them into projects to optimize them whenever and wherever possible. My current personal interests/hobbies include blockchain/smart contracts, video games, music, film, and IOT.*
 
 ##### I am a computer engineer, always learning, and tinkering with new projects. Welcome to my GitHub where I post some of the fun projects I am working on. Please contact me with any questions you may have.
 
