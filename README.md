@@ -1,4 +1,14 @@
-
+```
+ ____                               __      ____     __   ______                               
+/\  _`\                      __    /\ \    /\  _`\  /\ \ /\  _  \          __                  
+\ \ \/\ \     __     __  __ /\_\   \_\ \   \ \ \/\ \\ \/ \ \ \L\ \  _____ /\_\    ___     __   
+ \ \ \ \ \  /'__`\  /\ \/\ \\/\ \  /'_` \   \ \ \ \ \\/   \ \  __ \/\ '__`\/\ \  /'___\ /'__`\ 
+  \ \ \_\ \/\ \L\.\_\ \ \_/ |\ \ \/\ \L\ \   \ \ \_\ \     \ \ \/\ \ \ \L\ \ \ \/\ \__//\  __/ 
+   \ \____/\ \__/.\_\\ \___/  \ \_\ \___,_\   \ \____/      \ \_\ \_\ \ ,__/\ \_\ \____\ \____\
+    \/___/  \/__/\/_/ \/__/    \/_/\/__,_ /    \/___/        \/_/\/_/\ \ \/  \/_/\/____/\/____/
+                                                                      \ \_\                    
+                                                                       \/_/                    
+```
 
 <!--
 **scrimmie/scrimmie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +24,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![David D'Apice GitHub Banner](./assets/banner.png)
-
 # David Dapice :computer: <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 #### *I am a driven, passionate technologist combining logic, interpersonal skills, and a team-player orientation. I have 2+ years of experience working in both startups and established technology companies, developing in agile work environments using industry standard technologies and workflows. I am inspired by technology, and actively follow trends in web technology, incorporating them into projects to optimize them whenever and wherever possible. My current personal interests/hobbies include blockchain/smart contracts, video games, music, film, and IOT.*
 
